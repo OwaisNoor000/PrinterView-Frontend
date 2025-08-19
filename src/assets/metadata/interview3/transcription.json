@@ -1,0 +1,2400 @@
+[
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 3.45,
+        "start": 3.3,
+        "word": "good"
+      },
+      {
+        "conf": 1.0,
+        "end": 3.9,
+        "start": 3.45,
+        "word": "afternoon"
+      },
+      {
+        "conf": 1.0,
+        "end": 3.99,
+        "start": 3.9,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 4.17,
+        "start": 3.99,
+        "word": "must"
+      },
+      {
+        "conf": 1.0,
+        "end": 4.26,
+        "start": 4.17,
+        "word": "be"
+      },
+      {
+        "conf": 0.392962,
+        "end": 4.5,
+        "start": 4.47,
+        "word": "a"
+      },
+      {
+        "conf": 0.607038,
+        "end": 4.83,
+        "start": 4.5,
+        "word": "wang"
+      },
+      {
+        "conf": 1.0,
+        "end": 5.58,
+        "start": 5.31,
+        "word": "yes"
+      },
+      {
+        "conf": 1.0,
+        "end": 5.73,
+        "start": 5.58,
+        "word": "good"
+      },
+      {
+        "conf": 1.0,
+        "end": 6.06,
+        "start": 5.73,
+        "word": "afternoon"
+      },
+      {
+        "conf": 1.0,
+        "end": 6.42,
+        "start": 6.12,
+        "word": "pleased"
+      },
+      {
+        "conf": 1.0,
+        "end": 6.48,
+        "start": 6.42,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 6.69,
+        "start": 6.48,
+        "word": "meet"
+      },
+      {
+        "conf": 1.0,
+        "end": 6.87,
+        "start": 6.69,
+        "word": "you"
+      },
+      {
+        "conf": 0.547746,
+        "end": 6.99,
+        "start": 6.87,
+        "word": "i"
+      },
+      {
+        "conf": 0.728064,
+        "end": 7.29,
+        "start": 7.018368,
+        "word": "mrs"
+      },
+      {
+        "conf": 0.31291,
+        "end": 7.56,
+        "start": 7.29,
+        "word": "clerk"
+      },
+      {
+        "conf": 1.0,
+        "end": 7.65,
+        "start": 7.56,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 7.86,
+        "start": 7.65,
+        "word": "bank"
+      },
+      {
+        "conf": 1.0,
+        "end": 8.31,
+        "start": 7.86,
+        "word": "manager"
+      },
+      {
+        "conf": 1.0,
+        "end": 8.82,
+        "start": 8.49,
+        "word": "please"
+      },
+      {
+        "conf": 1.0,
+        "end": 8.97,
+        "start": 8.82,
+        "word": "have"
+      },
+      {
+        "conf": 1.0,
+        "end": 9.03,
+        "start": 8.97,
+        "word": "a"
+      },
+      {
+        "conf": 0.780025,
+        "end": 9.39,
+        "start": 9.03,
+        "word": "seat"
+      },
+      {
+        "conf": 0.780025,
+        "end": 9.686505,
+        "start": 9.48,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 9.87,
+        "start": 9.686505,
+        "word": "you"
+      }
+    ],
+    "text": "good afternoon you must be a wang yes good afternoon pleased to meet you i mrs clerk the bank manager please have a seat thank you"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 12.81,
+        "start": 12.3,
+        "word": "so"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.11,
+        "start": 12.84,
+        "word": "tell"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.23,
+        "start": 13.11,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.26,
+        "start": 13.23,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.5,
+        "start": 13.26,
+        "word": "little"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.62,
+        "start": 13.5,
+        "word": "bit"
+      },
+      {
+        "conf": 1.0,
+        "end": 13.92,
+        "start": 13.62,
+        "word": "about"
+      },
+      {
+        "conf": 1.0,
+        "end": 14.34,
+        "start": 13.92,
+        "word": "yourself"
+      },
+      {
+        "conf": 0.895398,
+        "end": 14.61,
+        "start": 14.34,
+        "word": "mister"
+      },
+      {
+        "conf": 0.567347,
+        "end": 14.94,
+        "start": 14.61,
+        "word": "when"
+      },
+      {
+        "conf": 1.0,
+        "end": 15.48,
+        "start": 15.15,
+        "word": "well"
+      },
+      {
+        "conf": 1.0,
+        "end": 15.57,
+        "start": 15.48,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 15.75,
+        "start": 15.57,
+        "word": "grew"
+      },
+      {
+        "conf": 1.0,
+        "end": 15.87,
+        "start": 15.75,
+        "word": "up"
+      },
+      {
+        "conf": 1.0,
+        "end": 15.96,
+        "start": 15.87,
+        "word": "in"
+      },
+      {
+        "conf": 1.0,
+        "end": 16.35,
+        "start": 15.96,
+        "word": "china"
+      },
+      {
+        "conf": 1.0,
+        "end": 16.5,
+        "start": 16.35,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 16.83,
+        "start": 16.5,
+        "word": "studied"
+      },
+      {
+        "conf": 1.0,
+        "end": 17.22,
+        "start": 16.83,
+        "word": "accounting"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.0,
+        "start": 17.76,
+        "word": "then"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.06,
+        "start": 18.0,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.36,
+        "start": 18.06,
+        "word": "worked"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.48,
+        "start": 18.36,
+        "word": "at"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.6,
+        "start": 18.48,
+        "word": "an"
+      },
+      {
+        "conf": 1.0,
+        "end": 18.99,
+        "start": 18.6,
+        "word": "accounting"
+      },
+      {
+        "conf": 1.0,
+        "end": 19.29,
+        "start": 18.99,
+        "word": "firm"
+      },
+      {
+        "conf": 1.0,
+        "end": 19.47,
+        "start": 19.29,
+        "word": "there"
+      },
+      {
+        "conf": 1.0,
+        "end": 19.62,
+        "start": 19.47,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 19.77,
+        "start": 19.62,
+        "word": "two"
+      },
+      {
+        "conf": 1.0,
+        "end": 20.13,
+        "start": 19.77,
+        "word": "years"
+      },
+      {
+        "conf": 1.0,
+        "end": 20.46,
+        "start": 20.16,
+        "word": "before"
+      },
+      {
+        "conf": 1.0,
+        "end": 20.7,
+        "start": 20.46,
+        "word": "coming"
+      },
+      {
+        "conf": 1.0,
+        "end": 20.82,
+        "start": 20.7,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 20.91,
+        "start": 20.82,
+        "word": "the"
+      },
+      {
+        "conf": 0.855007,
+        "end": 21.33,
+        "start": 20.91,
+        "word": "states"
+      }
+    ],
+    "text": "so tell me a little bit about yourself mister when well i grew up in china and studied accounting then i worked at an accounting firm there for two years before coming to the states"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 22.11,
+        "start": 21.99,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 22.41,
+        "start": 22.11,
+        "word": "worked"
+      },
+      {
+        "conf": 1.0,
+        "end": 22.56,
+        "start": 22.41,
+        "word": "well"
+      },
+      {
+        "conf": 1.0,
+        "end": 22.71,
+        "start": 22.56,
+        "word": "with"
+      },
+      {
+        "conf": 1.0,
+        "end": 23.16,
+        "start": 22.71,
+        "word": "others"
+      },
+      {
+        "conf": 0.727745,
+        "end": 23.46,
+        "start": 23.34,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 23.55,
+        "start": 23.46,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 23.73,
+        "start": 23.55,
+        "word": "like"
+      },
+      {
+        "conf": 1.0,
+        "end": 23.82,
+        "start": 23.73,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 24.15,
+        "start": 23.82,
+        "word": "challenge"
+      },
+      {
+        "conf": 1.0,
+        "end": 24.63,
+        "start": 24.15,
+        "word": "myself"
+      },
+      {
+        "conf": 1.0,
+        "end": 24.81,
+        "start": 24.66,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 25.35,
+        "start": 24.81,
+        "word": "constantly"
+      },
+      {
+        "conf": 1.0,
+        "end": 25.62,
+        "start": 25.35,
+        "word": "improve"
+      },
+      {
+        "conf": 1.0,
+        "end": 25.74,
+        "start": 25.62,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 26.16,
+        "start": 25.74,
+        "word": "skills"
+      }
+    ],
+    "text": "i worked well with others and i like to challenge myself to constantly improve my skills"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 27.33,
+        "start": 26.88,
+        "word": "that's"
+      },
+      {
+        "conf": 1.0,
+        "end": 27.75,
+        "start": 27.33,
+        "word": "great"
+      }
+    ],
+    "text": "that's great"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 28.65,
+        "start": 28.44,
+        "word": "as"
+      },
+      {
+        "conf": 1.0,
+        "end": 28.77,
+        "start": 28.65,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 28.95,
+        "start": 28.77,
+        "word": "know"
+      },
+      {
+        "conf": 1.0,
+        "end": 29.13,
+        "start": 28.95,
+        "word": "this"
+      },
+      {
+        "conf": 1.0,
+        "end": 29.52,
+        "start": 29.13,
+        "word": "job"
+      },
+      {
+        "conf": 1.0,
+        "end": 29.67,
+        "start": 29.55,
+        "word": "is"
+      },
+      {
+        "conf": 1.0,
+        "end": 29.82,
+        "start": 29.67,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 29.88,
+        "start": 29.82,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 30.15,
+        "start": 29.88,
+        "word": "bank"
+      },
+      {
+        "conf": 1.0,
+        "end": 30.54,
+        "start": 30.15,
+        "word": "teller"
+      }
+    ],
+    "text": "as you know this job is for a bank teller"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 31.77,
+        "start": 31.44,
+        "word": "what"
+      },
+      {
+        "conf": 1.0,
+        "end": 31.86,
+        "start": 31.77,
+        "word": "would"
+      },
+      {
+        "conf": 1.0,
+        "end": 31.98,
+        "start": 31.86,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 32.25,
+        "start": 31.98,
+        "word": "say"
+      },
+      {
+        "conf": 0.672425,
+        "end": 32.34,
+        "start": 32.25,
+        "word": "are"
+      },
+      {
+        "conf": 1.0,
+        "end": 32.55,
+        "start": 32.34,
+        "word": "some"
+      },
+      {
+        "conf": 1.0,
+        "end": 32.67,
+        "start": 32.55,
+        "word": "of"
+      },
+      {
+        "conf": 1.0,
+        "end": 32.79,
+        "start": 32.67,
+        "word": "your"
+      },
+      {
+        "conf": 1.0,
+        "end": 33.36,
+        "start": 32.79,
+        "word": "strengths"
+      },
+      {
+        "conf": 0.807509,
+        "end": 33.51,
+        "start": 33.39,
+        "word": "are"
+      },
+      {
+        "conf": 1.0,
+        "end": 34.05,
+        "start": 33.51,
+        "word": "skills"
+      },
+      {
+        "conf": 1.0,
+        "end": 34.23,
+        "start": 34.05,
+        "word": "that"
+      },
+      {
+        "conf": 1.0,
+        "end": 34.47,
+        "start": 34.23,
+        "word": "might"
+      },
+      {
+        "conf": 1.0,
+        "end": 34.68,
+        "start": 34.47,
+        "word": "help"
+      },
+      {
+        "conf": 1.0,
+        "end": 34.77,
+        "start": 34.68,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 35.28,
+        "start": 34.77,
+        "word": "succeed"
+      },
+      {
+        "conf": 0.834027,
+        "end": 35.37,
+        "start": 35.28,
+        "word": "in"
+      },
+      {
+        "conf": 1.0,
+        "end": 35.52,
+        "start": 35.37,
+        "word": "this"
+      },
+      {
+        "conf": 1.0,
+        "end": 35.94,
+        "start": 35.52,
+        "word": "job"
+      }
+    ],
+    "text": "what would you say are some of your strengths are skills that might help you succeed in this job"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 36.84,
+        "start": 36.66,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 37.17,
+        "start": 36.84,
+        "word": "biggest"
+      },
+      {
+        "conf": 1.0,
+        "end": 37.56,
+        "start": 37.17,
+        "word": "strength"
+      },
+      {
+        "conf": 1.0,
+        "end": 37.74,
+        "start": 37.62,
+        "word": "is"
+      },
+      {
+        "conf": 1.0,
+        "end": 37.95,
+        "start": 37.74,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 38.31,
+        "start": 37.95,
+        "word": "attention"
+      },
+      {
+        "conf": 0.627723,
+        "end": 38.37,
+        "start": 38.31,
+        "word": "to"
+      },
+      {
+        "conf": 0.627723,
+        "end": 38.76,
+        "start": 38.37,
+        "word": "detail"
+      }
+    ],
+    "text": "my biggest strength is my attention to detail"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 39.96,
+        "start": 39.75,
+        "word": "that"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.05,
+        "start": 39.96,
+        "word": "has"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.23,
+        "start": 40.05,
+        "word": "helped"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.32,
+        "start": 40.23,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.38,
+        "start": 40.32,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.65,
+        "start": 40.38,
+        "word": "lot"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.77,
+        "start": 40.65,
+        "word": "in"
+      },
+      {
+        "conf": 1.0,
+        "end": 40.92,
+        "start": 40.77,
+        "word": "this"
+      },
+      {
+        "conf": 1.0,
+        "end": 41.1,
+        "start": 40.92,
+        "word": "line"
+      },
+      {
+        "conf": 1.0,
+        "end": 41.19,
+        "start": 41.1,
+        "word": "of"
+      },
+      {
+        "conf": 1.0,
+        "end": 41.46,
+        "start": 41.19,
+        "word": "work"
+      }
+    ],
+    "text": "that has helped me a lot in this line of work"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 42.87,
+        "start": 42.36,
+        "word": "also"
+      },
+      {
+        "conf": 1.0,
+        "end": 43.14,
+        "start": 43.05,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 43.35,
+        "start": 43.14,
+        "word": "work"
+      },
+      {
+        "conf": 0.663272,
+        "end": 43.5,
+        "start": 43.35,
+        "word": "well"
+      },
+      {
+        "conf": 1.0,
+        "end": 43.65,
+        "start": 43.5,
+        "word": "under"
+      },
+      {
+        "conf": 1.0,
+        "end": 44.04,
+        "start": 43.65,
+        "word": "pressure"
+      }
+    ],
+    "text": "also i work well under pressure"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 45.3,
+        "start": 44.76,
+        "word": "wonderful"
+      }
+    ],
+    "text": "wonderful"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 46.2,
+        "start": 46.08,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 46.32,
+        "start": 46.2,
+        "word": "what"
+      },
+      {
+        "conf": 1.0,
+        "end": 46.44,
+        "start": 46.32,
+        "word": "would"
+      },
+      {
+        "conf": 1.0,
+        "end": 46.53,
+        "start": 46.44,
+        "word": "you"
+      },
+      {
+        "conf": 0.854563,
+        "end": 46.86,
+        "start": 46.53,
+        "word": "say"
+      },
+      {
+        "conf": 0.815581,
+        "end": 47.04,
+        "start": 46.89,
+        "word": "are"
+      },
+      {
+        "conf": 1.0,
+        "end": 47.34,
+        "start": 47.04,
+        "word": "some"
+      },
+      {
+        "conf": 1.0,
+        "end": 47.43,
+        "start": 47.34,
+        "word": "of"
+      },
+      {
+        "conf": 0.738237,
+        "end": 47.547942,
+        "start": 47.43,
+        "word": "your"
+      },
+      {
+        "conf": 1.0,
+        "end": 48.33,
+        "start": 47.547942,
+        "word": "weaknesses"
+      }
+    ],
+    "text": "and what would you say are some of your weaknesses"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 49.71,
+        "start": 48.96,
+        "word": "one"
+      },
+      {
+        "conf": 1.0,
+        "end": 49.8,
+        "start": 49.71,
+        "word": "of"
+      },
+      {
+        "conf": 1.0,
+        "end": 49.92,
+        "start": 49.8,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 50.25,
+        "start": 49.92,
+        "word": "biggest"
+      },
+      {
+        "conf": 1.0,
+        "end": 50.85,
+        "start": 50.25,
+        "word": "weaknesses"
+      },
+      {
+        "conf": 0.848537,
+        "end": 51.03,
+        "start": 50.88,
+        "word": "is"
+      },
+      {
+        "conf": 1.0,
+        "end": 51.33,
+        "start": 51.03,
+        "word": "asking"
+      },
+      {
+        "conf": 1.0,
+        "end": 51.45,
+        "start": 51.33,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 51.66,
+        "start": 51.45,
+        "word": "help"
+      },
+      {
+        "conf": 1.0,
+        "end": 51.81,
+        "start": 51.66,
+        "word": "when"
+      },
+      {
+        "conf": 1.0,
+        "end": 51.87,
+        "start": 51.81,
+        "word": "i"
+      },
+      {
+        "conf": 0.724971,
+        "end": 52.08,
+        "start": 51.87,
+        "word": "need"
+      },
+      {
+        "conf": 0.724971,
+        "end": 52.23,
+        "start": 52.08,
+        "word": "it"
+      }
+    ],
+    "text": "one of my biggest weaknesses is asking for help when i need it"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 53.43,
+        "start": 53.28,
+        "word": "i'd"
+      },
+      {
+        "conf": 1.0,
+        "end": 53.58,
+        "start": 53.43,
+        "word": "like"
+      },
+      {
+        "conf": 1.0,
+        "end": 53.67,
+        "start": 53.58,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 53.79,
+        "start": 53.67,
+        "word": "do"
+      },
+      {
+        "conf": 1.0,
+        "end": 54.03,
+        "start": 53.79,
+        "word": "better"
+      },
+      {
+        "conf": 1.0,
+        "end": 54.12,
+        "start": 54.03,
+        "word": "at"
+      },
+      {
+        "conf": 1.0,
+        "end": 54.36,
+        "start": 54.12,
+        "word": "that"
+      }
+    ],
+    "text": "i'd like to do better at that"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 55.92,
+        "start": 55.77,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 56.43,
+        "start": 55.92,
+        "word": "appreciate"
+      },
+      {
+        "conf": 1.0,
+        "end": 56.58,
+        "start": 56.43,
+        "word": "your"
+      },
+      {
+        "conf": 1.0,
+        "end": 56.97,
+        "start": 56.58,
+        "word": "honesty"
+      },
+      {
+        "conf": 0.598321,
+        "end": 57.27,
+        "start": 56.97,
+        "word": "mister"
+      },
+      {
+        "conf": 0.572559,
+        "end": 57.6,
+        "start": 57.27,
+        "word": "wang"
+      },
+      {
+        "conf": 1.0,
+        "end": 58.59,
+        "start": 58.44,
+        "word": "what"
+      },
+      {
+        "conf": 1.0,
+        "end": 58.71,
+        "start": 58.59,
+        "word": "can"
+      },
+      {
+        "conf": 1.0,
+        "end": 58.77,
+        "start": 58.71,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 58.95,
+        "start": 58.77,
+        "word": "tell"
+      },
+      {
+        "conf": 1.0,
+        "end": 59.1,
+        "start": 58.95,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 59.28,
+        "start": 59.1,
+        "word": "about"
+      },
+      {
+        "conf": 1.0,
+        "end": 59.46,
+        "start": 59.28,
+        "word": "some"
+      },
+      {
+        "conf": 1.0,
+        "end": 59.52,
+        "start": 59.46,
+        "word": "of"
+      },
+      {
+        "conf": 1.0,
+        "end": 59.64,
+        "start": 59.52,
+        "word": "your"
+      },
+      {
+        "conf": 1.0,
+        "end": 60.03,
+        "start": 59.64,
+        "word": "goals"
+      },
+      {
+        "conf": 1.0,
+        "end": 60.24,
+        "start": 60.06,
+        "word": "over"
+      },
+      {
+        "conf": 1.0,
+        "end": 60.33,
+        "start": 60.24,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 60.51,
+        "start": 60.33,
+        "word": "next"
+      },
+      {
+        "conf": 1.0,
+        "end": 60.69,
+        "start": 60.51,
+        "word": "few"
+      },
+      {
+        "conf": 1.0,
+        "end": 61.26,
+        "start": 60.69,
+        "word": "years"
+      },
+      {
+        "conf": 1.0,
+        "end": 62.01,
+        "start": 61.86,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 62.46,
+        "start": 62.01,
+        "word": "primary"
+      },
+      {
+        "conf": 1.0,
+        "end": 62.82,
+        "start": 62.46,
+        "word": "goal"
+      },
+      {
+        "conf": 1.0,
+        "end": 63.06,
+        "start": 62.91,
+        "word": "is"
+      },
+      {
+        "conf": 0.595505,
+        "end": 63.15,
+        "start": 63.06,
+        "word": "to"
+      },
+      {
+        "conf": 0.63969,
+        "end": 63.39,
+        "start": 63.15,
+        "word": "game"
+      },
+      {
+        "conf": 0.458707,
+        "end": 63.51,
+        "start": 63.39,
+        "word": "more"
+      },
+      {
+        "conf": 1.0,
+        "end": 63.72,
+        "start": 63.51,
+        "word": "work"
+      },
+      {
+        "conf": 1.0,
+        "end": 64.38,
+        "start": 63.72,
+        "word": "experience"
+      },
+      {
+        "conf": 0.777087,
+        "end": 65.030566,
+        "start": 64.77,
+        "word": "so"
+      },
+      {
+        "conf": 0.532734,
+        "end": 65.4,
+        "start": 65.04,
+        "word": "position"
+      },
+      {
+        "conf": 1.0,
+        "end": 65.58,
+        "start": 65.4,
+        "word": "like"
+      },
+      {
+        "conf": 1.0,
+        "end": 65.82,
+        "start": 65.58,
+        "word": "this"
+      },
+      {
+        "conf": 0.78773,
+        "end": 65.91,
+        "start": 65.82,
+        "word": "will"
+      },
+      {
+        "conf": 1.0,
+        "end": 66.09,
+        "start": 65.916372,
+        "word": "help"
+      },
+      {
+        "conf": 1.0,
+        "end": 66.18,
+        "start": 66.09,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 66.78,
+        "start": 66.18,
+        "word": "mythical"
+      },
+      {
+        "conf": 1.0,
+        "end": 67.74,
+        "start": 67.59,
+        "word": "i'd"
+      },
+      {
+        "conf": 1.0,
+        "end": 67.98,
+        "start": 67.74,
+        "word": "also"
+      },
+      {
+        "conf": 1.0,
+        "end": 68.19,
+        "start": 67.98,
+        "word": "like"
+      },
+      {
+        "conf": 1.0,
+        "end": 68.28,
+        "start": 68.19,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 68.52,
+        "start": 68.28,
+        "word": "learn"
+      },
+      {
+        "conf": 1.0,
+        "end": 68.73,
+        "start": 68.52,
+        "word": "more"
+      },
+      {
+        "conf": 1.0,
+        "end": 69.0,
+        "start": 68.73,
+        "word": "about"
+      },
+      {
+        "conf": 1.0,
+        "end": 69.06,
+        "start": 69.0,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 69.45,
+        "start": 69.06,
+        "word": "different"
+      },
+      {
+        "conf": 1.0,
+        "end": 69.96,
+        "start": 69.45,
+        "word": "aspects"
+      },
+      {
+        "conf": 1.0,
+        "end": 70.08,
+        "start": 69.96,
+        "word": "of"
+      },
+      {
+        "conf": 1.0,
+        "end": 70.47,
+        "start": 70.08,
+        "word": "banking"
+      },
+      {
+        "conf": 1.0,
+        "end": 70.98,
+        "start": 70.86,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 71.19,
+        "start": 70.98,
+        "word": "think"
+      },
+      {
+        "conf": 1.0,
+        "end": 71.4,
+        "start": 71.19,
+        "word": "those"
+      },
+      {
+        "conf": 1.0,
+        "end": 71.79,
+        "start": 71.4,
+        "word": "goals"
+      },
+      {
+        "conf": 1.0,
+        "end": 71.94,
+        "start": 71.82,
+        "word": "are"
+      },
+      {
+        "conf": 1.0,
+        "end": 72.39,
+        "start": 71.94,
+        "word": "very"
+      },
+      {
+        "conf": 1.0,
+        "end": 72.87,
+        "start": 72.39,
+        "word": "smart"
+      }
+    ],
+    "text": "i appreciate your honesty mister wang what can you tell me about some of your goals over the next few years my primary goal is to game more work experience so position like this will help me mythical i'd also like to learn more about the different aspects of banking i think those goals are very smart"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 73.77,
+        "start": 73.59,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 73.95,
+        "start": 73.77,
+        "word": "also"
+      },
+      {
+        "conf": 1.0,
+        "end": 74.13,
+        "start": 73.95,
+        "word": "want"
+      },
+      {
+        "conf": 1.0,
+        "end": 74.22,
+        "start": 74.13,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 74.52,
+        "start": 74.22,
+        "word": "ask"
+      },
+      {
+        "conf": 1.0,
+        "end": 74.67,
+        "start": 74.52,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 74.91,
+        "start": 74.67,
+        "word": "what"
+      },
+      {
+        "conf": 1.0,
+        "end": 75.36,
+        "start": 74.91,
+        "word": "salary"
+      },
+      {
+        "conf": 1.0,
+        "end": 75.84,
+        "start": 75.36,
+        "word": "range"
+      },
+      {
+        "conf": 1.0,
+        "end": 76.05,
+        "start": 75.87,
+        "word": "you'd"
+      },
+      {
+        "conf": 1.0,
+        "end": 76.17,
+        "start": 76.05,
+        "word": "be"
+      },
+      {
+        "conf": 0.524418,
+        "end": 76.38,
+        "start": 76.17,
+        "word": "most"
+      },
+      {
+        "conf": 1.0,
+        "end": 76.77,
+        "start": 76.38,
+        "word": "comfortable"
+      },
+      {
+        "conf": 1.0,
+        "end": 77.16,
+        "start": 76.77,
+        "word": "with"
+      },
+      {
+        "conf": 1.0,
+        "end": 77.49,
+        "start": 77.37,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 77.64,
+        "start": 77.49,
+        "word": "would"
+      },
+      {
+        "conf": 1.0,
+        "end": 77.76,
+        "start": 77.64,
+        "word": "be"
+      },
+      {
+        "conf": 1.0,
+        "end": 78.06,
+        "start": 77.76,
+        "word": "hoping"
+      },
+      {
+        "conf": 1.0,
+        "end": 78.12,
+        "start": 78.06,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 78.42,
+        "start": 78.12,
+        "word": "start"
+      },
+      {
+        "conf": 1.0,
+        "end": 78.78,
+        "start": 78.42,
+        "word": "somewhere"
+      },
+      {
+        "conf": 1.0,
+        "end": 79.47,
+        "start": 78.78,
+        "word": "between"
+      },
+      {
+        "conf": 1.0,
+        "end": 79.86,
+        "start": 79.62,
+        "word": "thirty"
+      },
+      {
+        "conf": 1.0,
+        "end": 80.16,
+        "start": 79.86,
+        "word": "five"
+      },
+      {
+        "conf": 1.0,
+        "end": 80.55,
+        "start": 80.16,
+        "word": "thousand"
+      },
+      {
+        "conf": 1.0,
+        "end": 80.73,
+        "start": 80.55,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 81.03,
+        "start": 80.76,
+        "word": "thirty"
+      },
+      {
+        "conf": 1.0,
+        "end": 81.18,
+        "start": 81.03,
+        "word": "eight"
+      },
+      {
+        "conf": 1.0,
+        "end": 81.48,
+        "start": 81.18,
+        "word": "thousand"
+      },
+      {
+        "conf": 1.0,
+        "end": 81.78,
+        "start": 81.48,
+        "word": "dollars"
+      },
+      {
+        "conf": 1.0,
+        "end": 81.84,
+        "start": 81.78,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 82.05,
+        "start": 81.84,
+        "word": "year"
+      }
+    ],
+    "text": "i also want to ask you what salary range you'd be most comfortable with i would be hoping to start somewhere between thirty five thousand and thirty eight thousand dollars a year"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 83.1,
+        "start": 82.89,
+        "word": "which"
+      },
+      {
+        "conf": 1.0,
+        "end": 83.22,
+        "start": 83.1,
+        "word": "is"
+      },
+      {
+        "conf": 1.0,
+        "end": 83.49,
+        "start": 83.22,
+        "word": "based"
+      },
+      {
+        "conf": 1.0,
+        "end": 83.61,
+        "start": 83.49,
+        "word": "on"
+      },
+      {
+        "conf": 1.0,
+        "end": 83.88,
+        "start": 83.61,
+        "word": "my"
+      },
+      {
+        "conf": 1.0,
+        "end": 84.66,
+        "start": 83.91,
+        "word": "experience"
+      },
+      {
+        "conf": 0.502271,
+        "end": 84.87,
+        "start": 84.72,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 85.47,
+        "start": 84.87,
+        "word": "education"
+      }
+    ],
+    "text": "which is based on my experience and education"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 86.46,
+        "start": 86.16,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 86.7,
+        "start": 86.46,
+        "word": "you"
+      }
+    ],
+    "text": "thank you"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 87.57,
+        "start": 87.36,
+        "word": "those"
+      },
+      {
+        "conf": 1.0,
+        "end": 87.66,
+        "start": 87.57,
+        "word": "are"
+      },
+      {
+        "conf": 1.0,
+        "end": 87.78,
+        "start": 87.66,
+        "word": "all"
+      },
+      {
+        "conf": 1.0,
+        "end": 87.87,
+        "start": 87.78,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 88.23,
+        "start": 87.87,
+        "word": "questions"
+      },
+      {
+        "conf": 1.0,
+        "end": 88.32,
+        "start": 88.23,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 88.5,
+        "start": 88.32,
+        "word": "have"
+      },
+      {
+        "conf": 1.0,
+        "end": 88.59,
+        "start": 88.5,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 88.74,
+        "start": 88.59,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 89.16,
+        "start": 88.74,
+        "word": "today"
+      },
+      {
+        "conf": 1.0,
+        "end": 89.76,
+        "start": 89.64,
+        "word": "do"
+      },
+      {
+        "conf": 1.0,
+        "end": 89.82,
+        "start": 89.76,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 90.0,
+        "start": 89.82,
+        "word": "have"
+      },
+      {
+        "conf": 1.0,
+        "end": 90.15,
+        "start": 90.0,
+        "word": "any"
+      },
+      {
+        "conf": 1.0,
+        "end": 90.63,
+        "start": 90.15,
+        "word": "questions"
+      },
+      {
+        "conf": 1.0,
+        "end": 90.75,
+        "start": 90.63,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 90.99,
+        "start": 90.75,
+        "word": "me"
+      }
+    ],
+    "text": "those are all the questions i have for you today do you have any questions for me"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 92.01,
+        "start": 91.83,
+        "word": "can"
+      },
+      {
+        "conf": 1.0,
+        "end": 92.1,
+        "start": 92.01,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 92.28,
+        "start": 92.1,
+        "word": "tell"
+      },
+      {
+        "conf": 1.0,
+        "end": 92.4,
+        "start": 92.28,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 92.64,
+        "start": 92.4,
+        "word": "about"
+      },
+      {
+        "conf": 1.0,
+        "end": 92.73,
+        "start": 92.64,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 93.03,
+        "start": 92.73,
+        "word": "working"
+      },
+      {
+        "conf": 1.0,
+        "end": 93.42,
+        "start": 93.03,
+        "word": "hours"
+      },
+      {
+        "conf": 1.0,
+        "end": 94.08,
+        "start": 93.87,
+        "word": "would"
+      },
+      {
+        "conf": 1.0,
+        "end": 94.29,
+        "start": 94.08,
+        "word": "like"
+      },
+      {
+        "conf": 1.0,
+        "end": 94.56,
+        "start": 94.29,
+        "word": "whoever"
+      },
+      {
+        "conf": 0.804657,
+        "end": 94.8,
+        "start": 94.56,
+        "word": "fills"
+      },
+      {
+        "conf": 1.0,
+        "end": 94.89,
+        "start": 94.8,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 95.37,
+        "start": 94.89,
+        "word": "position"
+      },
+      {
+        "conf": 1.0,
+        "end": 95.55,
+        "start": 95.37,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 95.82,
+        "start": 95.55,
+        "word": "work"
+      },
+      {
+        "conf": 1.0,
+        "end": 96.09,
+        "start": 95.82,
+        "word": "nine"
+      },
+      {
+        "conf": 1.0,
+        "end": 96.18,
+        "start": 96.09,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 96.57,
+        "start": 96.18,
+        "word": "five"
+      },
+      {
+        "conf": 1.0,
+        "end": 96.81,
+        "start": 96.6,
+        "word": "each"
+      },
+      {
+        "conf": 1.0,
+        "end": 97.35,
+        "start": 96.81,
+        "word": "weekday"
+      },
+      {
+        "conf": 1.0,
+        "end": 98.04,
+        "start": 97.86,
+        "word": "there"
+      },
+      {
+        "conf": 0.853728,
+        "end": 98.19,
+        "start": 98.04,
+        "word": "may"
+      },
+      {
+        "conf": 0.853728,
+        "end": 98.31,
+        "start": 98.19,
+        "word": "be"
+      },
+      {
+        "conf": 1.0,
+        "end": 98.49,
+        "start": 98.31,
+        "word": "some"
+      },
+      {
+        "conf": 1.0,
+        "end": 99.0,
+        "start": 98.49,
+        "word": "occasional"
+      },
+      {
+        "conf": 1.0,
+        "end": 99.6,
+        "start": 99.03,
+        "word": "overtime"
+      },
+      {
+        "conf": 0.828379,
+        "end": 100.238979,
+        "start": 100.05,
+        "word": "or"
+      },
+      {
+        "conf": 0.435102,
+        "end": 100.35,
+        "start": 100.238979,
+        "word": "i"
+      },
+      {
+        "conf": 1.0,
+        "end": 101.22,
+        "start": 101.01,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 101.4,
+        "start": 101.22,
+        "word": "you"
+      }
+    ],
+    "text": "can you tell me about the working hours would like whoever fills the position to work nine to five each weekday there may be some occasional overtime or i thank you"
+  },
+  {
+    "result": [
+      {
+        "conf": 1.0,
+        "end": 102.33,
+        "start": 102.18,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 102.51,
+        "start": 102.33,
+        "word": "when"
+      },
+      {
+        "conf": 0.599147,
+        "end": 102.563833,
+        "start": 102.51,
+        "word": "do"
+      },
+      {
+        "conf": 1.0,
+        "end": 102.72,
+        "start": 102.563833,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 103.2,
+        "start": 102.72,
+        "word": "expect"
+      },
+      {
+        "conf": 1.0,
+        "end": 103.29,
+        "start": 103.2,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 103.41,
+        "start": 103.29,
+        "word": "be"
+      },
+      {
+        "conf": 1.0,
+        "end": 103.742014,
+        "start": 103.41,
+        "word": "making"
+      },
+      {
+        "conf": 0.871899,
+        "end": 103.86,
+        "start": 103.742014,
+        "word": "your"
+      },
+      {
+        "conf": 1.0,
+        "end": 104.28,
+        "start": 103.86,
+        "word": "decision"
+      },
+      {
+        "conf": 1.0,
+        "end": 105.12,
+        "start": 104.91,
+        "word": "will"
+      },
+      {
+        "conf": 1.0,
+        "end": 105.27,
+        "start": 105.12,
+        "word": "give"
+      },
+      {
+        "conf": 1.0,
+        "end": 105.36,
+        "start": 105.27,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 105.48,
+        "start": 105.36,
+        "word": "will"
+      },
+      {
+        "conf": 1.0,
+        "end": 105.84,
+        "start": 105.48,
+        "word": "call"
+      },
+      {
+        "conf": 1.0,
+        "end": 106.14,
+        "start": 105.84,
+        "word": "within"
+      },
+      {
+        "conf": 1.0,
+        "end": 106.2,
+        "start": 106.14,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 106.59,
+        "start": 106.2,
+        "word": "week"
+      },
+      {
+        "conf": 1.0,
+        "end": 106.86,
+        "start": 106.71,
+        "word": "and"
+      },
+      {
+        "conf": 1.0,
+        "end": 107.04,
+        "start": 106.86,
+        "word": "let"
+      },
+      {
+        "conf": 1.0,
+        "end": 107.16,
+        "start": 107.04,
+        "word": "you"
+      },
+      {
+        "conf": 0.716475,
+        "end": 107.43,
+        "start": 107.16,
+        "word": "down"
+      },
+      {
+        "conf": 0.667529,
+        "end": 108.06,
+        "start": 107.88,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 108.21,
+        "start": 108.06,
+        "word": "have"
+      },
+      {
+        "conf": 1.0,
+        "end": 108.33,
+        "start": 108.21,
+        "word": "any"
+      },
+      {
+        "conf": 1.0,
+        "end": 108.48,
+        "start": 108.33,
+        "word": "other"
+      },
+      {
+        "conf": 1.0,
+        "end": 109.14,
+        "start": 108.48,
+        "word": "questions"
+      },
+      {
+        "conf": 1.0,
+        "end": 109.74,
+        "start": 109.5,
+        "word": "not"
+      },
+      {
+        "conf": 1.0,
+        "end": 109.8,
+        "start": 109.74,
+        "word": "at"
+      },
+      {
+        "conf": 1.0,
+        "end": 109.86,
+        "start": 109.8,
+        "word": "the"
+      },
+      {
+        "conf": 1.0,
+        "end": 110.19,
+        "start": 109.86,
+        "word": "moment"
+      },
+      {
+        "conf": 0.733563,
+        "end": 110.94,
+        "start": 110.73,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 111.12,
+        "start": 110.94,
+        "word": "you"
+      },
+      {
+        "conf": 0.751954,
+        "end": 111.57,
+        "start": 111.39,
+        "word": "will"
+      },
+      {
+        "conf": 0.684567,
+        "end": 111.66,
+        "start": 111.57,
+        "word": "if"
+      },
+      {
+        "conf": 1.0,
+        "end": 111.75,
+        "start": 111.66,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 112.02,
+        "start": 111.75,
+        "word": "think"
+      },
+      {
+        "conf": 1.0,
+        "end": 112.11,
+        "start": 112.02,
+        "word": "of"
+      },
+      {
+        "conf": 0.60342,
+        "end": 112.32,
+        "start": 112.11,
+        "word": "any"
+      },
+      {
+        "conf": 0.60342,
+        "end": 112.71,
+        "start": 112.32,
+        "word": "more"
+      },
+      {
+        "conf": 1.0,
+        "end": 113.04,
+        "start": 112.86,
+        "word": "you're"
+      },
+      {
+        "conf": 1.0,
+        "end": 113.34,
+        "start": 113.04,
+        "word": "always"
+      },
+      {
+        "conf": 1.0,
+        "end": 113.61,
+        "start": 113.34,
+        "word": "welcome"
+      },
+      {
+        "conf": 1.0,
+        "end": 113.67,
+        "start": 113.61,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 113.91,
+        "start": 113.67,
+        "word": "call"
+      },
+      {
+        "conf": 1.0,
+        "end": 114.15,
+        "start": 113.91,
+        "word": "me"
+      },
+      {
+        "conf": 1.0,
+        "end": 114.69,
+        "start": 114.48,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 114.78,
+        "start": 114.69,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 114.9,
+        "start": 114.78,
+        "word": "so"
+      },
+      {
+        "conf": 1.0,
+        "end": 115.26,
+        "start": 114.9,
+        "word": "much"
+      },
+      {
+        "conf": 1.0,
+        "end": 115.68,
+        "start": 115.56,
+        "word": "it"
+      },
+      {
+        "conf": 1.0,
+        "end": 115.8,
+        "start": 115.68,
+        "word": "was"
+      },
+      {
+        "conf": 1.0,
+        "end": 116.07,
+        "start": 115.8,
+        "word": "great"
+      },
+      {
+        "conf": 1.0,
+        "end": 116.16,
+        "start": 116.07,
+        "word": "to"
+      },
+      {
+        "conf": 1.0,
+        "end": 116.4,
+        "start": 116.16,
+        "word": "meet"
+      },
+      {
+        "conf": 1.0,
+        "end": 116.67,
+        "start": 116.4,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 117.51,
+        "start": 117.21,
+        "word": "thanks"
+      },
+      {
+        "conf": 1.0,
+        "end": 117.6,
+        "start": 117.51,
+        "word": "for"
+      },
+      {
+        "conf": 1.0,
+        "end": 117.87,
+        "start": 117.6,
+        "word": "coming"
+      },
+      {
+        "conf": 1.0,
+        "end": 117.99,
+        "start": 117.87,
+        "word": "in"
+      },
+      {
+        "conf": 1.0,
+        "end": 118.38,
+        "start": 117.99,
+        "word": "today"
+      },
+      {
+        "conf": 1.0,
+        "end": 118.71,
+        "start": 118.5,
+        "word": "thank"
+      },
+      {
+        "conf": 1.0,
+        "end": 118.89,
+        "start": 118.71,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 119.34,
+        "start": 119.22,
+        "word": "it"
+      },
+      {
+        "conf": 1.0,
+        "end": 119.46,
+        "start": 119.34,
+        "word": "was"
+      },
+      {
+        "conf": 1.0,
+        "end": 119.52,
+        "start": 119.46,
+        "word": "a"
+      },
+      {
+        "conf": 1.0,
+        "end": 119.79,
+        "start": 119.52,
+        "word": "pleasure"
+      },
+      {
+        "conf": 1.0,
+        "end": 120.0,
+        "start": 119.79,
+        "word": "meeting"
+      },
+      {
+        "conf": 1.0,
+        "end": 120.12,
+        "start": 120.0,
+        "word": "you"
+      },
+      {
+        "conf": 1.0,
+        "end": 120.21,
+        "start": 120.12,
+        "word": "as"
+      },
+      {
+        "conf": 1.0,
+        "end": 120.42,
+        "start": 120.21,
+        "word": "well"
+      }
+    ],
+    "text": "and when do you expect to be making your decision will give you will call within a week and let you down to have any other questions not at the moment thank you will if you think of any more you're always welcome to call me thank you so much it was great to meet you thanks for coming in today thank you it was a pleasure meeting you as well"
+  },
+  {
+    "text": ""
+  },
+  {
+    "text": ""
+  }
+]

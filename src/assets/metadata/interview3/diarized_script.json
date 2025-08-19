@@ -1,0 +1,278 @@
+[
+  {
+    "start": 3.3,
+    "end": 4.8,
+    "speaker": "SPEAKER_01",
+    "text": "good afternoon you must be a"
+  },
+  {
+    "start": 5.3,
+    "end": 6.1,
+    "speaker": "SPEAKER_00",
+    "text": "yes good afternoon "
+  },
+  {
+    "start": 6.1,
+    "end": 6.1,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 6.1,
+    "end": 9.3,
+    "speaker": "SPEAKER_01",
+    "text": "pleased to meet you i mrs clerk the bank manager please have a"
+  },
+  {
+    "start": 9.5,
+    "end": 9.9,
+    "speaker": "SPEAKER_00",
+    "text": "thank you "
+  },
+  {
+    "start": 12.3,
+    "end": 15.0,
+    "speaker": "SPEAKER_01",
+    "text": "so tell me a little bit about yourself mister when"
+  },
+  {
+    "start": 15.2,
+    "end": 17.5,
+    "speaker": "SPEAKER_00",
+    "text": "well i grew up in china and studied accounting"
+  },
+  {
+    "start": 17.6,
+    "end": 21.4,
+    "speaker": "SPEAKER_00",
+    "text": "then i worked at an accounting firm there for two years before coming to the states"
+  },
+  {
+    "start": 21.9,
+    "end": 26.2,
+    "speaker": "SPEAKER_00",
+    "text": "i worked well with others and i like to challenge myself to constantly improve my skills "
+  },
+  {
+    "start": 27.0,
+    "end": 27.8,
+    "speaker": "SPEAKER_01",
+    "text": "great "
+  },
+  {
+    "start": 28.4,
+    "end": 30.5,
+    "speaker": "SPEAKER_01",
+    "text": "as you know this job is for a bank"
+  },
+  {
+    "start": 31.6,
+    "end": 35.9,
+    "speaker": "SPEAKER_01",
+    "text": "would you say are some of your strengths are skills that might help you succeed in this"
+  },
+  {
+    "start": 36.7,
+    "end": 38.8,
+    "speaker": "SPEAKER_00",
+    "text": "my biggest strength is my attention to detail "
+  },
+  {
+    "start": 39.8,
+    "end": 41.4,
+    "speaker": "SPEAKER_00",
+    "text": "that has helped me a lot in this line of"
+  },
+  {
+    "start": 42.4,
+    "end": 44.1,
+    "speaker": "SPEAKER_00",
+    "text": "also i work well under pressure"
+  },
+  {
+    "start": 44.8,
+    "end": 45.3,
+    "speaker": "SPEAKER_01",
+    "text": "wonderful "
+  },
+  {
+    "start": 46.0,
+    "end": 48.4,
+    "speaker": "SPEAKER_01",
+    "text": "and what would you say are some of your weaknesses"
+  },
+  {
+    "start": 49.5,
+    "end": 52.2,
+    "speaker": "SPEAKER_00",
+    "text": "of my biggest weaknesses is asking for help when i need"
+  },
+  {
+    "start": 53.3,
+    "end": 54.4,
+    "speaker": "SPEAKER_00",
+    "text": "i'd like to do better at that "
+  },
+  {
+    "start": 55.7,
+    "end": 57.6,
+    "speaker": "SPEAKER_01",
+    "text": "i appreciate your honesty mister wang "
+  },
+  {
+    "start": 58.4,
+    "end": 61.3,
+    "speaker": "SPEAKER_01",
+    "text": "what can you tell me about some of your goals over the next few years "
+  },
+  {
+    "start": 61.8,
+    "end": 66.9,
+    "speaker": "SPEAKER_00",
+    "text": "my primary goal is to game more work experience so position like this will help me mythical"
+  },
+  {
+    "start": 67.5,
+    "end": 70.5,
+    "speaker": "SPEAKER_00",
+    "text": "i'd also like to learn more about the different aspects of banking "
+  },
+  {
+    "start": 70.8,
+    "end": 73.0,
+    "speaker": "SPEAKER_01",
+    "text": "i think those goals are very smart"
+  },
+  {
+    "start": 73.6,
+    "end": 77.0,
+    "speaker": "SPEAKER_01",
+    "text": "i also want to ask you what salary range you'd be most comfortable"
+  },
+  {
+    "start": 77.4,
+    "end": 82.1,
+    "speaker": "SPEAKER_00",
+    "text": "i would be hoping to start somewhere between thirty five thousand and thirty eight thousand dollars a year"
+  },
+  {
+    "start": 82.9,
+    "end": 85.5,
+    "speaker": "SPEAKER_00",
+    "text": "which is based on my experience and education "
+  },
+  {
+    "start": 86.1,
+    "end": 86.7,
+    "speaker": "SPEAKER_01",
+    "text": "thank you "
+  },
+  {
+    "start": 87.3,
+    "end": 89.1,
+    "speaker": "SPEAKER_01",
+    "text": "those are all the questions i have for you"
+  },
+  {
+    "start": 89.6,
+    "end": 91.0,
+    "speaker": "SPEAKER_01",
+    "text": "do you have any questions for me "
+  },
+  {
+    "start": 91.9,
+    "end": 93.5,
+    "speaker": "SPEAKER_00",
+    "text": "you tell me about the working hours"
+  },
+  {
+    "start": 93.9,
+    "end": 97.4,
+    "speaker": "SPEAKER_01",
+    "text": "would like whoever fills the position to work nine to five each weekday"
+  },
+  {
+    "start": 97.9,
+    "end": 99.6,
+    "speaker": "SPEAKER_01",
+    "text": "there may be some occasional overtime "
+  },
+  {
+    "start": 100.0,
+    "end": 100.4,
+    "speaker": "SPEAKER_00",
+    "text": "or i"
+  },
+  {
+    "start": 101.0,
+    "end": 101.4,
+    "speaker": "SPEAKER_00",
+    "text": "thank you "
+  },
+  {
+    "start": 102.1,
+    "end": 104.3,
+    "speaker": "SPEAKER_00",
+    "text": "and when do you expect to be making your decision "
+  },
+  {
+    "start": 104.9,
+    "end": 107.5,
+    "speaker": "SPEAKER_01",
+    "text": "will give you will call within a week and let you down"
+  },
+  {
+    "start": 107.8,
+    "end": 109.2,
+    "speaker": "SPEAKER_01",
+    "text": "to have any other questions"
+  },
+  {
+    "start": 109.5,
+    "end": 110.2,
+    "speaker": "SPEAKER_00",
+    "text": "not at the moment "
+  },
+  {
+    "start": 110.7,
+    "end": 111.1,
+    "speaker": "SPEAKER_00",
+    "text": "thank"
+  },
+  {
+    "start": 111.4,
+    "end": 112.8,
+    "speaker": "SPEAKER_01",
+    "text": "will if you think of any more"
+  },
+  {
+    "start": 112.9,
+    "end": 114.1,
+    "speaker": "SPEAKER_01",
+    "text": "you're always welcome to call"
+  },
+  {
+    "start": 114.5,
+    "end": 115.3,
+    "speaker": "SPEAKER_00",
+    "text": "thank you so much "
+  },
+  {
+    "start": 115.5,
+    "end": 116.6,
+    "speaker": "SPEAKER_01",
+    "text": "it was great to meet"
+  },
+  {
+    "start": 117.2,
+    "end": 118.4,
+    "speaker": "SPEAKER_01",
+    "text": "thanks for coming in today "
+  },
+  {
+    "start": 118.5,
+    "end": 120.4,
+    "speaker": "SPEAKER_00",
+    "text": "thank you it was a pleasure meeting you as"
+  }
+]
