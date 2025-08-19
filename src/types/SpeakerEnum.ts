@@ -1,5 +1,3 @@
-export enum SpeakerEnum {
-    speaker1 = "SPEAKER_00",
-    speaker2 = "SPEAKER_01"
-
+export type Speaker = {
+    interviewer_id:"SPEAKER_00"|"SPEAKER_01"
 }

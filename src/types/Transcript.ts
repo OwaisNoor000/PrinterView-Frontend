@@ -1,8 +1,7 @@
-import { SpeakerEnum } from "./SpeakerEnum"
 
 export type TranscriptLine = {
     text:string,
-    speaker:SpeakerEnum,
+    speaker:string,
     start:string,
     end:string,
 }

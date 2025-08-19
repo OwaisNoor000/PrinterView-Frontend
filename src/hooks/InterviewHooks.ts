@@ -1,6 +1,6 @@
 import axios from "axios";
 import type { TranscriptLine } from "../types/Transcript";
-import type { SpeakerEnum } from "../types/SpeakerEnum";
+import type { Speaker } from "../types/SpeakerEnum";
 import type { Keywords } from "../types/Keywords";
 import type { SummaryLine, SummarySegments } from "../types/Summary";
 
@@ -13,9 +13,15 @@ export const getTranscript:(interview_number:number)=>Promise<TranscriptLine[]> 
 }
 
 
-export const getInterviewer:(interview_number:number)=>Promise<SpeakerEnum> = async (interview_number:number) => {
-    return axios.get<SpeakerEnum>(`https://lwapc6yq7cyz57sxzuvzv2u6ou0nkrar.lambda-url.eu-north-1.on.aws/interviewer-id?interview_number=${interview_number}`)
-    .then((response)=>{return response.data});
+export const getInterviewer:(interview_number:number)=>Promise<Speaker> = async (interview_number:number) => {
+    return axios.get<Speaker>(`https://lwapc6yq7cyz57sxzuvzv2u6ou0nkrar.lambda-url.eu-north-1.on.aws/interviewer-id?interview_number=${interview_number}`)
+    .then((response)=>{
+        if(response.data.interviewer_id=='SPEAKER_00'){
+            return {"interviewer_id":"SPEAKER_00"} as Speaker;
+        }else{
+            return {"interviewer_id":"SPEAKER_01"} as Speaker;
+        }
+    });
 }
 
 export const getKeywords:(interview_number:number)=>Promise<string[]> = async (interview_number:number) => {

@@ -1,4 +1,4 @@
-import {SpeakerEnum} from "../types/SpeakerEnum";
+import {type Speaker} from "../types/SpeakerEnum";
 import { type TranscriptLine} from "../types/Transcript";
 import { getInterviewer, getTranscript } from "../hooks/InterviewHooks";
 import { createRef, useEffect, useRef, useState,  type RefObject } from "react";
@@ -11,7 +11,7 @@ type TranscriptProps = {
 
 export default function Transcript({className}:TranscriptProps){
     const [lines, setLines] = useState<TranscriptLine[]>([]);
-    const [interviewer,setInterviewer] = useState<SpeakerEnum>(SpeakerEnum.speaker1);
+    const [interviewer,setInterviewer] = useState<Speaker>({"interviewer_id":"SPEAKER_00"});
     const seconds = useAppStore((state)=>state.video_progress);
     const lineRefs = useRef<RefObject<HTMLDivElement>[]>([]);
     const changeVideoTime:(seconds:number)=>void = useAppStore(state=>state.changeVideoTime);
@@ -69,7 +69,7 @@ export default function Transcript({className}:TranscriptProps){
     const jumpToTime = (seconds:string) => {
         console.log("start of func")
         changeVideoTime(parseFloat(seconds));
-        console.log("end of func")
+        console.log("end of func");
     }
     
     return (
@@ -80,7 +80,7 @@ export default function Transcript({className}:TranscriptProps){
                 lines.map((line,index)=>(
                     <div className="text-xs my-1 cursor-pointer hover:italic " ref={lineRefs.current[index]}
                     onClick={()=>{jumpToTime(line.start)}}>
-                        <b>[{convertSecondsToTimeStamp(line.start)}]</b> {line.speaker == interviewer ? "Interviewer" : "Interviewee"}: {line.text}
+                        <b>[{convertSecondsToTimeStamp(line.start)}]</b> {line.speaker == interviewer.interviewer_id ? "Interviewer" : "Interviewee"}: {line.text}
                     </div>
                 ))
             }
