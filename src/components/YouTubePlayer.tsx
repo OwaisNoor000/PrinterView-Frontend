@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+import {  useRef,  } from "react";
 import {type YouTubeEvent} from 'react-youtube';
 import YouTube from "react-youtube";
 

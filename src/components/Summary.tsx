@@ -1,5 +1,5 @@
 import {getSummary } from "../hooks/InterviewHooks";
-import { createRef, useEffect, useRef, useState, type Ref, type RefObject } from "react";
+import { createRef, useEffect, useRef, useState,  type RefObject } from "react";
 import { convertSecondsToTimeStamp } from "../utils/Util";
 import { useAppStore } from "../context/AppStore";
 import type { SummaryLine } from "../types/Summary";

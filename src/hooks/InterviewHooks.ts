@@ -3,7 +3,6 @@ import type { TranscriptLine } from "../types/Transcript";
 import type { SpeakerEnum } from "../types/SpeakerEnum";
 import type { Keywords } from "../types/Keywords";
 import type { SummaryLine, SummarySegments } from "../types/Summary";
-import { useAppStore } from "../context/AppStore";
 
 
 

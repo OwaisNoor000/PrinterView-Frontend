@@ -1,9 +1,8 @@
 import {SpeakerEnum} from "../types/SpeakerEnum";
 import { type TranscriptLine} from "../types/Transcript";
 import { getInterviewer, getTranscript } from "../hooks/InterviewHooks";
-import { createRef, useEffect, useRef, useState, type Ref, type RefObject } from "react";
+import { createRef, useEffect, useRef, useState,  type RefObject } from "react";
 import { convertSecondsToTimeStamp } from "../utils/Util";
-import React from "react";
 import { useAppStore } from "../context/AppStore";
 
 type TranscriptProps = {

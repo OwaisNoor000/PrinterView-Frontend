@@ -1,4 +1,4 @@
-import type { Ref, RefObject } from "react";
+import type {  RefObject } from "react";
 import type YouTube from "react-youtube";
 import {create} from "zustand";
 
@@ -23,11 +23,11 @@ export const useAppStore = create<AppState>()((set) => ({
     video_reference:null,
     interview_number:1,
     youtube_id:"sjTxmq68RXU",
-    setVideoProgress: (progress) => set((state) => ({ video_progress: progress })),
-    setCandidateName: (name) => set((state)=>({candidate_name:name})),
-    setVideoReference:(reference) => set((state)=>({video_reference:reference})),
-    setInterviewNumber:(num_input) => set((state) => ({ interview_number:num_input })),
-    setYoutubeId:(yt_id) => set((state) => ({ youtube_id:yt_id })),
+    setVideoProgress: (progress) => set(() => ({ video_progress: progress })),
+    setCandidateName: (name) => set(()=>({candidate_name:name})),
+    setVideoReference:(reference) => set(()=>({video_reference:reference})),
+    setInterviewNumber:(num_input) => set(() => ({ interview_number:num_input })),
+    setYoutubeId:(yt_id) => set(() => ({ youtube_id:yt_id })),
     changeVideoTime: (seconds) => set((state)=>{
       if(state.video_reference && state.video_reference.current){
         console.log("time changed");

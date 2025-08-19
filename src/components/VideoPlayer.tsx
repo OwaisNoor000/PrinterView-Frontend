@@ -1,10 +1,6 @@
-import { useState,useEffect, useRef, type RefObject } from "react"
-import ReactPlayer from "react-player";
-import interview from "../assets/temporary/interview.mp4";
+import { useEffect, useRef, type RefObject } from "react"
 import {useAppStore} from "../context/AppStore";
-import { roundToDecimalPlaces } from "../utils/Util";
 import YouTube from "react-youtube";
-import { type YouTubeEvent } from "react-youtube";
 
 export type VideoPlayerProps = {
     interviewee_name:string,
@@ -12,9 +8,6 @@ export type VideoPlayerProps = {
 
 }
 
-type PlayEventHolderType = {
-    playing:boolean;
-}
 
 
 

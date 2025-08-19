@@ -1,11 +1,9 @@
 import Header from "../components/Header";
 import VideoPlayer from "../components/VideoPlayer";
-import TestLogger from "../components/TestLogger";
 import Transcript from "../components/Transcript";
 import Keywords from "../components/Keywords";
 import Summary from "../components/Summary";
 import Relevance from "../components/Relevance";
-import YouTubePlayer from "../components/YouTubePlayer";
 
 export default function MainView(){
     return (

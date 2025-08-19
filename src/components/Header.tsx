@@ -1,11 +1,9 @@
 import { PiStarFourFill } from "react-icons/pi";
 import Profile from "./Profile";
-import { useAppStore } from "../context/AppStore";
 import CandidateDDList from "./CandidateDDList";
 
 
 export default function Header(){
-    let candidate_name = useAppStore((state)=>state.candidate_name);
 
     return (
         <header className="flex flex-row justify-between items-center border-b-1 border-gray-300 w-full">
